@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Fahad Sohail (Fadi786-tech)
 
-<!--
-**Fadi786-tech/Fadi786-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Flutter Developer at [Elevare Tech], passionate about building impactful solutions with modern technologies. I love turning ideas into beautiful, functional apps, and I'm always learning something new!
 
-Here are some ideas to get you started:
+## 🧑‍💻 Top Skills
+- **Flutter** (mobile & web)
+- **Node.js**
+- **C#**
+- **SQL Server / PostgreSQL**
+- **Docker**
+- **OpenStreetMap (OSM)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- **How Am I Driving?** — Smart driver behavior monitoring.
+- **Electronic Notice Board** — Digital announcements made easy.
+- **AI Gym Trainer App** — Fitness coaching powered by AI.
+
+## ⚡ Interests
+- Coding & continuous learning
+- Football (on and off the field!)
+- Anime (always up for a recommendation!)
+
+## 📫 Connect with Me
+- **WhatsApp:** [+92 310 8313566](https://wa.me/923108313566)
+- **LinkedIn:** [Fahad Sohail - Flutter Developer](https://www.linkedin.com/in/fahad-sohail-flutter)
+
+---
+
+> “Code is poetry. Football is passion. Anime is adventure.”
+
+Thanks for visiting my profile! 🚀
