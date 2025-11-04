@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Fahad Sohail (Fadi786-tech)
 
 ## 🚀 About Me
-Flutter Developer at [Elevare Tech], passionate about building impactful solutions with modern technologies. I love turning ideas into beautiful, functional apps, and I'm always learning something new!
+BackEnd Developer at [DevGate], passionate about building impactful solutions with modern technologies. I love turning ideas into beautiful, functional apps, and I'm always learning something new!
 
 ## 🧑‍💻 Top Skills
 - **Flutter** (mobile & web)
 - **Node.js**
+- **TypeScript**
 - **C#**
 - **SQL Server / PostgreSQL**
 - **Docker**
