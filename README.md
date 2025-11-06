@@ -8,7 +8,7 @@ BackEnd Developer at [DevGate], passionate about building impactful solutions wi
 - **Node.js**
 - **TypeScript**
 - **C#**
-- **SQL Server / PostgreSQL**
+- **SQL Server / PostgreSQL / MongoDB**
 - **Docker**
 - **OpenStreetMap (OSM)**
 
