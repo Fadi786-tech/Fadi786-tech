@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fahad Sohail (Fadi786-tech)
 
 ## 🚀 About Me
-Full Stack Developer at [DevGate], passionate about building impactful solutions with modern technologies. I love turning ideas into beautiful, functional apps, and I'm always learning something new!
+Full Stack Developer at DevGate, passionate about building impactful solutions with modern technologies. I love turning ideas into beautiful, functional apps, and I'm always learning something new!
 
 ## 🧑‍💻 Top Skills
 - **React.js**
