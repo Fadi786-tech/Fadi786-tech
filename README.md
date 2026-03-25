@@ -25,6 +25,9 @@ Full Stack Developer at DevGate, passionate about building impactful solutions w
 - Football (on and off the field!)
 - Anime (always up for a recommendation!)
 
+## Portfolio
+https://portfolio-three-iota-14.vercel.app/
+
 ## 📫 Connect with Me
 - **WhatsApp:** [+92 310 8313566](https://wa.me/923108313566)
 - **LinkedIn:** [Fahad Sohail - Dev](https://www.linkedin.com/in/fahad-sohail-dev)
